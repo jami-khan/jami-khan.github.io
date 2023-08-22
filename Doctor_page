@@ -1,1 +1,377 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> best doctor in sylhet city</title>
+  
+</head> 
+<body >
+    <style>
+         footer {
+    background-color: #333;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+ }
 
+ header {
+    background-color: #690909;
+    padding: 10px;
+    color: #fff;
+ }
+ section{
+    background-color: #333;
+    padding: 20px;
+    color: #22be75;
+}
+ nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+ }
+ 
+ nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ nav ul li {
+    display: inline;
+ }
+ 
+ nav ul li a {
+    padding: 10px;
+    color: #333;
+    text-decoration: none;
+ }
+ 
+ nav ul li a:hover {
+    background-color: #333;
+    color: #fff;
+ }
+
+ table {
+
+    background-color: #431c9e;
+    padding: 30px;
+    color: #f0ebeb;
+    text-align: center;
+
+ }
+
+ form{
+    background-color: #6b3767;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    
+ }
+    </style>
+<hr>
+ <header>
+    <h1 style="text-align: center; color: rgb(255, 255, 255);"> The Top doctor Of SYLHET City <br>Within Your Reach</h1>
+ </header>
+
+ <nav>
+    <ul>
+       <li><a href="#">Home</a></li>
+       <li><a href="#">About</a></li>
+       <li><a href="#">Doctor Information</a></li>
+       <li><a href="#">Ticket Collection</a></li>
+       <li><a href="#">Contact for More Info</a></li>
+    </ul>
+ </nav> 
+
+<img src="Premium Vector _ Medical officer logo template design.jfif"  height="200px" width="200px" hspace="600" align="right"/> 
+<hr>
+
+<iframe src="https://www.castleconnolly.com/top-doctors/ny/new-york/all" height="350" width="650">    
+</iframe>
+
+<iframe width="650" height="350" src="https://www.youtube.com/embed/DUaxt8OlT3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<hr>
+<br>
+<hr>
+<br>
+<hr>
+<section>
+    <h2 align="center">About Us</h2>
+    <p style="font-size:140%;">A doctor is someone who is experienced and certified to practice medicine to help maintain or restore physical and mental health.
+        A doctor is tasked with interacting with patients, diagnosing medical problems and successfully treating illness or injury. 
+        There are many specific areas in the field of medicine that students can study.
+        After providing diagnoses, doctors treat patients who are suffering from diseases and injuries.
+         Doctors are also called physicians and they can be either medical doctors (M.D.) or doctors of osteopathic medicine (D.O.).
+        Both types of physicians use traditional treatment methods such as drugs and surgery, 
+        but D.O.s emphasize the body's musculoskeletal system, preventive medicine, and holistic patient care. Doctors can be primary care physicians or 
+        they may specialize in a particular area of medicine such as internal medicine, emergency medicine, 
+        obstetrics and gynecology, neurology, pediatrics, geriatrics, psychiatry, endocrinology, ophthalmology, or anesthesiology.</p>
+ </section>
+<hr>
+
+<!-- <table border="2" height="100" width="100">
+    <caption style="color: brown;"> About Our University faculty Members</caption>
+
+    <tr>
+        <thead>
+            <th> DEPARTMENT</th> 
+            <th colspan="5">  Members name</th> 
+             
+        </thead>    
+    </tr>
+
+    <tr>
+        <tbody>
+            <td> Computer science</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+        </tbody>
+
+        <tbody>
+            <td> Electrical Engineering</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+        </tbody>
+
+        <tbody>
+            <td> English Department</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+        </tbody>
+
+        <tbody>
+            <td>LAW</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+            <td> Teacher name 1</td>
+        </tbody>
+
+    </tr>
+
+</table> -->
+<hr>
+<p style="text-align: center;"> A LIST OF TOP DOCTORS AT YOUR SERVICE</p>
+
+<header1>
+    <ol style="text-align: center;" type="I" >
+        <li><u>Dr. Nobody</u><br>
+           <mark>An expert in Cardiology with an experience of 10 years</mark><br>
+           Location: AL-haramain Hospital<br>
+           For Ticket: 018########<br><br>
+
+        </li>
+<hr>
+        <li><u>Dr. Iftekhar Ahmed Jami Khan</u><br>
+          <mark>An expert in Teaching with an experience of 10 years</mark><br>
+          Location: Heart Foundation Hospital<br>
+          For Ticket: 018$$$$$$$$<br><br>
+
+       </li>
+<hr>
+       <li><u>Dr. Hajera Begum Shimla</u><br>
+           <mark>An expert in Brain with an experience of 10 years</mark><br>
+           Location: North-East Hospital<br>
+           For Ticket: 018********<br><br>
+
+        </li>
+<hr>
+        <li><u>Dr. Mithila Ishrat</u><br>
+          <mark>An expert in Eye with an experience of 10 years</mark><br>
+          Location: SathKhira Hospital<br>
+          For Ticket: 018^^^^^^^^<br><br>
+
+       </li>
+       <hr>
+       
+      </ol>
+    </header1>
+<br>
+<hr>
+
+<header2>
+<ul>
+
+    <li style="color: blue;"><i>CANCER SPECIALTIES</i></li>
+ <li>Diagnostic Radiology</li>
+   <li>ematology</li>
+    <li>Medical Oncology</li>
+    <li>Radiation Oncology</li>
+    <li>Gynecologic Oncology</li><br>
+
+    <li style="color: #690909;"><b>COSMETIC SPECIALTIES</b></li>
+    <li>Dermatology</li>
+    <li>Plastic Surgery</li>
+    <li> Otolaryngology/Facial Plastic Surgery</li><br>
+   
+<li style="color: burlywood;"><b>PEDIATRIC SPECIALTIES</b></li>
+<li>Child Neurology</li>
+<li>Pediatric Critical Care Medicine</li>
+<li>Pediatric Nephrology</li>
+<li>Pediatric Surgery</li>
+<li>Pediatric Pulmonology</li>
+<li>Pediatric Gastroenterology</li>
+<li>Pediatric Allergy & Immunology</li>
+<li>Pediatric Infectious Disease</li>
+<li>Pediatric Otolaryngology</li>
+<li>Pediatric Rheumatology</li>
+<li>Pediatric Urology</li><br>
+
+    <li style="color: crimson;"><b>OTHER SPECIALISTS</b></li>
+    <li>Addiction Psychiatry</li>
+        <li>Cardiovascular Disease</li>
+        <li>Gastroenterology</li>
+        <li>Infectious Disease</li>
+        <li>Neonatal-Perinatal Medicine</li>
+        <li>Nuclear Medicine</li>
+        <li>Occupational Medicine</li>
+        <li>Ophthalmology</li>
+        <li>Otolaryngology</li>
+        <li>Pathology</li>
+        <li>Physical Medicine & Rehabilitation</li>
+        <li>Pulmonary Disease</li>
+        <li>Rheumatology</li>
+        <li>Cardiac Electrophysiology</li>
+        <li>Colon & Rectal Surgery</li>
+        <li>Endocrinology, Diabetes & Metabolism</li>
+        <li>Urology</li>
+        <li>Vascular Surgery</li>
+        <li>Clinical Genetics</li>
+        <li>Critical Care Medicine</li>
+        <li>Allergy & Immunology</li>
+        <li>Maternal & Fetal Medicine</li>
+      
+        <br>
+
+</ul>
+
+</header2>
+
+<form>
+    <p align="center">
+        
+        <i><b>FILL OUT THE REQUIRED FORM FOR DOCTOR CHECK-UP</b></i>
+    </p>
+<p>
+    Username :<input type="text" placeholder="Enter Only Text And Numbers" required>
+</p>
+
+<p>
+    Enter Password:<input type="password" placeholder="Please enter Password" required>
+</p>
+
+<p>
+    Enter Email :<input type="email" placeholder=" email" required>
+</p>
+
+<p>
+    Date Of Birth :<input type="date" placeholder="Enter  date" required>
+</p>
+
+<p>
+    Enter your phone number :<input type="number" placeholder="Enter number" required>
+</p>
+<p>
+    Enter your age :<input type="number" placeholder="Enter age" required>
+</p>
+<p>
+    Religion <input type="checkbox"> ISLAM
+    <input type="checkbox"> HINDU
+    <input type="checkbox"> OTHER
+</p>
+
+
+<p>
+     Gender <input type="radio" name="gender"> MALE
+      <input type="radio" name="gender"> FEMALE
+      <input type="radio" name="gender"> OTHER
+</p>
+    
+DOCTOR LIST FOR CHECK-UP:<br> 
+ <select>
+        <option> Dr. Nobody</option>
+        <option> Dr. Iftekhar Ahmed Jami Khan</option>
+        <option> Dr. Hajera Begum Shimla</option>
+        <option> Dr. Mithila Ishrat</option>
+        
+
+    </select><br><br>
+
+    Which Time  Do You Want to See The Doctor:<br>
+    <select>
+        <option> Morning</option>
+        <option> AfterNoon</option>
+        <option> Evening</option>
+        <option> Night-time</option>
+        
+    </select>
+<p>
+    FEEDBACK : <br>
+    <textarea>
+
+
+    </textarea>
+</p>
+   
+<p>
+     <input type="submit" value="Sign Up">
+     <input type="reset" value="clear all">
+</p>
+
+</form>
+<hr>
+<hr>
+  
+
+    <p>
+        <h3 title="center">A VIDEO OF OURSELVES</h3>
+        <video controls>
+
+             <source src="location of video.mp4" type="video/mp4" height="" width="">
+
+        </video>
+    </p>
+
+    <hr>
+    <hr>
+
+     <p>
+       
+        <ul style="text-align: center;">
+
+           <h4>KNOW MORE ABOUT US BY LIKING OUR FACEBOOK PAGE</h4>
+           <li><a href="https://www.facebook.com" target="_blank">FACEBOOK</a></li>
+
+           <h5>KNOW MORE ABOUT US BY LIKING OUR YOUTUBE CHANNEL</h5>
+           <li> <a href="https://www.youtube.com" target="_blank"> YOUTUBE</a></li>
+
+           <h6>KNOW MORE ABOUT US BY LIKING OUR INSTAGRAM PAGE</h6>
+           <li> <a href=" instagram page link" target="_blank">INSTAGRAM</a></li>
+
+        </ul>
+   
+     </p>
+
+ <hr>
+ <hr>
+
+<p>
+    <footer>
+ Developed BY :<br> 
+ &copy; IFTERKHAR<br>
+ &copy; MITHILA<br>
+ &copy; SHIMLA
+</footer>
+
+</p>
+
+
+
+</body>
+
+
+</html>
